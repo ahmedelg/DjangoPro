@@ -6,6 +6,11 @@ Useing Django Framework Techniques to Develop Web Application.
 - django-admin startProject name-of-project
 - python manage.py runserver
 - python manage.py startapp name-of-app
+- python manage.py migrate
+- python manage.py createsuperuser # Create admin of Admin Panel Dashboard
+- python manage.py makemigrations
+- python manage.py migrate
+- 
 ---
 ### **About DJANGO Module**
 - Django project consists of *project* and *apps*.
