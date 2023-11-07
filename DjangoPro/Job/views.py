@@ -15,6 +15,17 @@ def job_list(request):
 
 # Job Details
 def job_details(request, id):
-    context={}
-    return render(request,'Job/job_details.html',context)
+    # Specific Job
+    job_dependOn_id=Job.objects.get(id=id)
+    # job_dependOn_id = Job.objects.filter(id=id)
+
+    # Filter() not same get() about What does each one return?
+
+    # print(.title)
+    # print(job_dependOn_id.title)
+    # print(job_dependOn_id)
+    context={
+        'job':job_dependOn_id
+    }
+    return render(request,'Job/job_details.html', context)
     

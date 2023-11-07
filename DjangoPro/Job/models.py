@@ -10,7 +10,7 @@ JOB_TYPE=(
 class Job(models.Model): # Table
     # Fields
     title=models.CharField(max_length=100)
-    # location
+    # location      
     job_type=models.CharField(max_length=15,choices=JOB_TYPE)
     description = models.TextField(max_length=10000)
     # Not Appeared in Admin Dashboard Why? A) auto_now is True that means it records just once
