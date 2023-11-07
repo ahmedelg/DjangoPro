@@ -1,34 +1,38 @@
-# DjangoPro
-Useing Django Framework Techniques to Build Web Application.
+## **DjangoPro**
+Useing Django Framework Techniques to Develop Web Application.
+
+### **Initialize DjangoPro:**
+- pip install django
+- django-admin startProject name-of-project
+- python manage.py runserver
+- python manage.py startapp name-of-app
+---
+### **About DJANGO Module**
+- Django project consists of *project* and *apps*.
+- Url:Path || View:Logic || Model:Db || Template:FrontEnd
+
+### **DJANGO Documentations**
+1. [Formal Django Website](https://docs.djangoproject.com/en/4.2/),.
+2. 
 
 ---
 
-> pip install django
-> django-admin startProject name-of-project
-> python manage.py runserver
+### **DJANGO Courses**
+1. [Arabic Youtube Course](https://www..com)
+2. 
+---
 
-
+### **DJANGO Articles**
 
 ---
 
-### Django Documentations:
-[Formal Django Website](https://docs.djangoproject.com/en/4.2/)
+### **DJANGO Sheet Cheets**
 
 ---
 
-### Django Courses:
-[Course](https://www..com)
+### **DJANGO Projects**
 
 ---
 
-### Django Articles:
-
-
----
-
-### Django Sheet Cheets:
-
-
----
-
-### Django Projects:
+## **Other Topics**
+1. Python *Virtual Environment* Approach.
