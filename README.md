@@ -23,7 +23,7 @@ Useing Django Framework Techniques to Develop Web Application.
 ---
 
 ### **DJANGO Courses**
-1. [Arabic Youtube Course](https://www..com)
+1. [Arabic Youtube Course](https://www.youtube.com/watch?v=GVLrt9604vg&t=4601s)
 2. 
 ---
 
@@ -41,3 +41,8 @@ Useing Django Framework Techniques to Develop Web Application.
 
 ## **Other Topics**
 1. Python *Virtual Environment* Approach.
+2. Class-Based Views.
+3. Function-Based Views.
+4. Django Model *QuerySet* API.
+5. Django Template Language.
+

@@ -40,8 +40,8 @@ INSTALLED_APPS = [
 
 
     # MY APPS
-    'Job',
-]
+    'Job',  
+]   
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
